@@ -17,9 +17,9 @@
 <img src='https://img.shields.io/github/license/Excelottah6/IZUKU-MD?color=%231e81b0&style=for-the-badge' width="143px">
 <p align="center"> 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/FdbSxW6Gr4zI4Phe846r2Q" target="_blank">
-   <img alt="whatsapp" src="https://img.shields.io/badge/RIKA-Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   <img alt="whatsapp" src="https://img.shields.io/badge/IZUKU-Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a aria-label="Join our chats" href="https://chat.whatsapp.com/HxVuy25MtqoFOsYuyxBx0G" target="_blank">
-   <img alt="whatsapp" src="https://img.shields.io/badge/RIKA Public Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   <img alt="whatsapp" src="https://img.shields.io/badge/IZUKU Public Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Excelottah6}/count.svg" alt="Excel :: Visitor's Count" /></p>
    
@@ -45,7 +45,7 @@
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/Layefa7/RIKA-MD">
+    <a href="">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
@@ -59,7 +59,7 @@ __________________________
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Layefa7/RIKA-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/excelottah6/IZUKU-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
@@ -97,6 +97,8 @@ __________________________
  <p align="centre">
   <a href="mailto: looneyffkun@gmail">
     <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
-   <a href="https://wa.me/994408223019?text=Hi%20RIKA-MENDOSKA%20Sir...%20I%20need%20some%20help%20in%20RIKA-MD">
+   <a href="https://wa.me/?2347039570336text=Hi%20Excel%20Sir...%20I%20need%20some%20help%20in%20IZUKU-MD">
+    <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
+     <a href="https://wa.me/?2349030504723text=Hi%20Apollo%20Sir...%20I%20need%20some%20help%20in%20IZUKU-MD">
     <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
   </p>
