@@ -97,8 +97,8 @@ __________________________
  <p align="centre">
   <a href="mailto: looneyffkun@gmail">
     <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
-   <a href="https://wa.me/?2347039570336text=Hi%20Excel%20Sir...%20I%20need%20some%20help%20in%20IZUKU-MD">
+   <a href="https://wa.me/2347039570336?text=Hi%20Excel%20Sir...%20I%20need%20some%20help%20in%20IZUKU-MD">
     <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
-     <a href="https://wa.me/?2349030504723text=Hi%20Apollo%20Sir...%20I%20need%20some%20help%20in%20IZUKU-MD">
+     <a href="https://wa.me/2349030504723?text=Hi%20Apollo%20Sir...%20I%20need%20some%20help%20in%20IZUKU-MD">
     <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
   </p>
