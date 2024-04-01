@@ -16,9 +16,9 @@
  <a href="https://github.com//IZUKU-MD/blob/main/LICENCE">
 <img src='https://img.shields.io/github/license/Excelottah6/IZUKU-MD?color=%231e81b0&style=for-the-badge' width="143px">
 <p align="center"> 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/FdbSxW6Gr4zI4Phe846r2Q" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/RIKA-Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    <a aria-label="Join our chats" href="https://chat.whatsapp.com/JfqGkHN8yqSA8xLspDd4Vo" target="_blank">
+    <a aria-label="Join our chats" href="https://chat.whatsapp.com/HxVuy25MtqoFOsYuyxBx0G" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/RIKA Public Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Excelottah6}/count.svg" alt="Excel :: Visitor's Count" /></p>
@@ -27,10 +27,10 @@
 
 # ```Scan QR Code```
 
-1. ***Get [SESSION-ID](https://replit.com/@Layefa7/RIKA-MD?v=1) by scanning QR code. `Whatsapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://portfolio-0dbe.onrender.com/) by scanning QR code. `Whatsapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
-2. ***Click [FORK](https://github.com/Layefa7/RIKA-MD/fork)***
+2. ***Click [FORK](https://github.com/Excelottah6/IZUKU-MD/fork)***
  
 ---
 
